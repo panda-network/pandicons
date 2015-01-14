@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>productHunt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-179.000000, -733.000000)">
+            <g id="productHunt" transform="translate(179.619403, 733.628609)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-9" fill="#DC5425" x="0" y="0" width="59.995872" height="59.995896" rx="2"></rect>
+                <path d="M26.192872,43.9534884 L26.192872,34.5814302 L33.0105158,34.5814302 C39.323149,34.5814302 42.7740551,30.3556361 42.7740551,25.3348907 C42.7740551,20.2723057 39.323149,16.0465116 33.0105158,16.0465116 L18.954386,16.0465116 L18.954386,43.9534884 L26.192872,43.9534884 L26.192872,43.9534884 Z M31.916326,28.3054984 L26.192872,28.3054984 L26.192872,22.3224434 L31.916326,22.3224434 C33.8522002,22.3224434 35.4093164,23.4102716 35.4093164,25.3348907 C35.4093164,27.2176702 33.8522002,28.3054984 31.916326,28.3054984 L31.916326,28.3054984 Z" id="P" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

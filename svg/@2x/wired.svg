@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>wired</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="5.99361817%" x2="100%" y2="95.9232338%" id="linearGradient-1">
+            <stop stop-color="#6E6E6E" offset="0%"></stop>
+            <stop stop-color="#565656" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.56343323%" y1="10.156546%" x2="90.6933278%" y2="94.4865479%" id="linearGradient-2">
+            <stop stop-color="#BDBDBD" offset="0%"></stop>
+            <stop stop-color="#575757" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.9053852%" y1="43.9880439%" x2="31.1121915%" y2="40.0471346%" id="linearGradient-3">
+            <stop stop-color="#515151" offset="0%"></stop>
+            <stop stop-color="#2B2B2B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.8317128%" y1="46.6494223%" x2="60.7928197%" y2="70.8007128%" id="linearGradient-4">
+            <stop stop-color="#848484" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="71.6717156%"></stop>
+            <stop stop-color="#2B2B2B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.3414836%" y1="0%" x2="86.35555%" y2="92.8792314%" id="linearGradient-5">
+            <stop stop-color="#C7C7C7" offset="0%"></stop>
+            <stop stop-color="#6E6E6E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-536.000000, -1095.000000)">
+            <g id="wired" transform="translate(536.365672, 1095.591109)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-14" fill="#000000" x="0.352941176" y="0" width="59.2941176" height="60" rx="2"></rect>
+                <g id="Logo" transform="translate(0.000000, 4.285714)">
+                    <path d="M0.510110294,30.2779715 L46.8074449,50.2692522 L46.5923713,39.528111 L0.3515625,19.9926758 L0.510110294,30.2779715 Z" id="Path-142" fill="url(#linearGradient-1)"></path>
+                    <path d="M13.4127987,9.94594029 L13.4127987,20.3379859 L23.4611098,29.771031 L46.6056411,39.5812988 L13.4127987,9.94594029 Z" id="Path-143" fill="url(#linearGradient-2)"></path>
+                    <path d="M13.4972426,9.83956473 L59.5795037,29.9302455 L59.5715763,40.1775251 L36.2342027,30.3311593 L13.4972426,9.83956473 Z" id="Path-144" fill="url(#linearGradient-3)"></path>
+                    <path d="M13.3972886,9.90844727 L59.5715763,29.609375 L59.5715763,40.1775251 L36.419807,30.2211217 L13.3972886,9.90844727 Z" id="Path-146" opacity="0.697469683" fill="url(#linearGradient-4)"></path>
+                    <path d="M26.6181066,0.100795201 L59.7073759,29.9410575 L36.6338465,19.8531669 L26.2265625,10.5196708 L26.6181066,0.100795201 Z" id="Path-145" fill="url(#linearGradient-5)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

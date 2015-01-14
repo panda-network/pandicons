@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>sidebar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-179.000000, -913.000000)">
+            <g id="sidebar" transform="translate(179.619403, 913.020833)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-10" fill="#F56C33" x="0.355029586" y="0.344768615" width="59.6408669" height="59.6449704" rx="2"></rect>
+                <g id="Logo" transform="translate(0.000000, 1.428571)" fill="#FFFFFF">
+                    <rect id="Rectangle-24" x="18.1065089" y="13.5714286" width="23.7869822" height="2.85714286"></rect>
+                    <rect id="Rectangle-25" x="13.8461538" y="20.3571429" width="16.1538462" height="2.85714286"></rect>
+                    <rect id="Rectangle-26" x="18.1065089" y="27.1428571" width="23.7869822" height="2.85714286"></rect>
+                    <rect id="Rectangle-28" x="18.1065089" y="40.3571429" width="23.7869822" height="2.85714286"></rect>
+                    <rect id="Rectangle-27" x="30" y="33.9285714" width="16.1538462" height="2.85714286"></rect>
+                    <g id="back" fill-opacity="0.2">
+                        <rect id="Rectangle-29" x="0.355029586" y="0" width="26.2721893" height="2.85714286"></rect>
+                        <rect id="Rectangle-31" x="0" y="6.78571429" width="9.9408284" height="2.85714286"></rect>
+                        <rect id="Rectangle-34" x="0" y="13.5714286" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-35" x="46.5088757" y="13.5714286" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-36" x="46.5088757" y="27.1428571" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-37" x="50.0591716" y="33.5714286" width="9.9408284" height="2.85714286"></rect>
+                        <rect id="Rectangle-38" x="46.5088757" y="40.3571429" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-39" x="50.0591716" y="47.1428571" width="9.9408284" height="2.85714286"></rect>
+                        <rect id="Rectangle-41" x="30.1775148" y="47.1428571" width="15.6213018" height="2.85714286"></rect>
+                        <rect id="Rectangle-42" x="13.8461538" y="53.9285714" width="15.6213018" height="2.85714286"></rect>
+                        <rect id="Rectangle-43" x="0.355029586" y="47.1428571" width="25.5621302" height="2.85714286"></rect>
+                        <rect id="Rectangle-44" x="0.355029586" y="53.9285714" width="9.58579882" height="2.85714286"></rect>
+                        <rect id="Rectangle-45" x="0.355029586" y="40.3571429" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-46" x="0.355029586" y="33.9285714" width="25.5621302" height="2.85714286"></rect>
+                        <rect id="Rectangle-47" x="0.355029586" y="27.1428571" width="13.4911243" height="2.85714286"></rect>
+                        <rect id="Rectangle-48" x="0.355029586" y="20.3571429" width="9.58579882" height="2.85714286"></rect>
+                        <rect id="Rectangle-40" x="34.0828402" y="53.9285714" width="25.9171598" height="2.85714286"></rect>
+                        <rect id="Rectangle-32" x="13.4911243" y="6.78571429" width="16.3313609" height="2.85714286"></rect>
+                        <rect id="Rectangle-33" x="34.0828402" y="6.78571429" width="25.9171598" height="2.85714286"></rect>
+                        <rect id="Rectangle-49" x="34.0828402" y="20.3571429" width="25.9171598" height="2.85714286"></rect>
+                        <rect id="Rectangle-29" x="30.1775148" y="0" width="16.3313609" height="2.85714286"></rect>
+                        <rect id="Rectangle-30" x="50.0591716" y="0" width="9.9408284" height="2.85714286"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
