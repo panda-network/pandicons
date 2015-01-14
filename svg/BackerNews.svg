@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>BackerNews</title>
+    <title>backerNews</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M15.4472856,4.25054363 L24.8401411,9.6685586 L24.8845198,20.7639266 L15.5171474,26.3270391 L5.95215106,20.8122924 L5.921294,9.65521032 L15.4472856,4.25054363 Z M11.659321,9.77465143 L11.6170226,20.4661039 L18.009462,20.4661039 C18.009462,20.4661039 20.1981385,19.9115435 20.0796589,17.2826257 C19.972377,14.9021692 17.5580474,15.1203777 18.009462,14.8036594 C18.4608766,14.4869411 19.6100422,14.0311927 19.6100422,12.2574316 C19.6100422,10.4836705 17.5580474,9.77465143 17.5580474,9.77465143 L11.659321,9.77465143 Z" id="path-1"></path>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-536.000000, 0.000000)">
-            <g id="BackerNews" transform="translate(536.365672, 0.245833)">
+            <g id="backerNews" transform="translate(536.365672, 0.245833)">
                 <rect id="Rectangle-4" fill="#00C072" sketch:type="MSShapeGroup" x="0" y="0" width="30" height="30" rx="2"></rect>
                 <g id="Path-11">
                     <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
