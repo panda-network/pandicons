@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>hackerNews</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-179.000000, -551.000000)">
+            <g id="hackerNews" transform="translate(179.619403, 551.058333)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-9" fill="#FF6600" x="0" y="0" width="29.997936" height="29.997948" rx="2"></rect>
+                <path d="M9.42005894,8.14657522 L11.7079883,8.14657522 L14.8111979,14.6474155 L18.2831346,8.08576717 L20.3131853,8.08576717 L15.6022135,16.4965253 L15.6022135,21.7885819 L13.858764,21.7885819 L13.858764,16.5228058 L9.42005894,8.14657522 Z" id="Path-84" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

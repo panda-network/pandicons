@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>theVerge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-179.000000, -1090.000000)">
+            <g id="theVerge" transform="translate(179.619403, 1090.345276)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-13" fill="#181818" x="0" y="0" width="30" height="30" rx="2"></rect>
+                <path d="M5.3499136,5.90693883 L22.2544208,5.90693883 L15.1198905,18.4606062 L13.704834,16.2865339 L18.571167,8.04364886 L3.99058348,8.04364886 L5.3499136,5.90693883 Z" id="Path-131" fill="#1D9C86"></path>
+                <path d="M22.2613525,5.89582171 L24.778268,5.89582171 L15.0108119,22.7318464 L7.56844657,9.96259417 L9.99232701,9.96259417 L15.118321,18.4931292 L22.2613525,5.89582171 Z" id="Path-132" fill="#26184A"></path>
+                <path d="M4.00277274,8.02978516 L13.6788504,24.8395647 L16.2506975,24.9018206 L26.0496303,7.81005859 L24.7684588,5.90214321 L15.0262015,22.7160645 L7.59137835,9.99128069 L17.4381801,9.99128069 L18.5893903,8.02978516 L4.00277274,8.02978516 Z" id="Path-133" fill="#D6D4D1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

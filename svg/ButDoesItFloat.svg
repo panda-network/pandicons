@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ButDoesItFloat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.00549692568" y="0.0864951788" width="29.8972448" height="29.5471504" rx="2"></rect>
+        <rect id="path-3" x="0.00549692568" y="0.0864951788" width="29.8972448" height="29.5471504" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-179.000000, -181.000000)">
+            <g id="ButDoesItFloat" transform="translate(179.619403, 181.254760)">
+                <g id="Group" transform="translate(0.000000, 0.000000)">
+                    <mask id="mask-2" sketch:name="Mask 2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask-2" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(0.000000, 0.000000)">
+                            <mask id="mask-4" sketch:name="Mask" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" stroke="none" fill="#E5E5E5" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                            <path d="M9.22175052,5.90686093 L7.23103418,5.90686093 L7.23103418,7.67223773 L5.45373085,7.67223773 L5.45373085,9.5654413 L9.22175052,9.56544129 L9.22175052,5.90686093 Z" id="Path-20" stroke="none" fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                            <path d="M9.21438657,3.92754367 L14.8757489,3.88383486 L14.9220487,5.9200504 L16.6802325,5.9200504 L16.6862791,7.71996522 L14.9533183,7.69947672 L14.9419161,9.63837188 L12.9183721,9.6271032 L12.9088703,18.969006 L14.8767854,18.9485175 L14.8767854,20.8363622 L20.6191724,20.8648753 L20.6056971,18.9200044 L22.5293855,18.8894424 L22.5314586,17.1026743 L24.2742667,17.1026743 L24.295689,20.8727293 L22.43955,20.8727293 L22.4530253,22.6403747 L18.6363999,22.6231302 L18.6383002,24.5528055 L10.9915741,24.5813187 L10.9915741,22.6270572 L7.36584899,22.5966659 L7.3732777,20.8541189 L5.48776937,20.8104101 L5.42263865,17.0437699 L7.27532248,17.0570874 L7.28482431,15.1253632 L9.1910639,15.1009478 L9.17568821,9.53046577 L9.2238884,5.48825524 C9.2238884,5.48825524 9.21787944,3.94550978 9.21784178,3.93932455 L9.21438657,3.92754367 Z M10.9226858,5.85956664 L13.1232229,5.85192613 L13.1011096,7.78740654 L10.9082603,7.78885781 L10.9226858,5.85956664 Z" id="Path-19" stroke="none" fill="#636362" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                            <path d="M12.8904497,13.4099635 L14.920583,13.4099635 L14.920583,11.3792601 L20.6238402,11.3792601 L20.6238402,13.2896844 L24.3006213,13.2896844 L24.3006213,15.1380385 L26.2295207,15.1380385 L26.2295207,17.1417566 L22.5564657,17.1417564 L22.5564657,18.9432672 L20.6288902,18.9432672 L20.6288902,20.8949251 L14.8722485,20.91941 L14.8722485,18.9905157 L12.8904497,18.9905155 L12.8904497,13.4099635 Z" id="Path-21" stroke="none" fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                            <path d="M18.5722841,22.6208252 L22.4611235,22.6354553 L22.4694052,24.559475 L18.5576427,24.559475 L18.5722841,22.6208252 Z M18.5517256,24.5524747 L18.5497389,26.4225093 L16.6849942,26.4254866 L16.6880072,24.5588027 L18.5517256,24.5524747 Z" id="Path-22" stroke="none" fill="#F9E135" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                            <path d="M0.0351017968,19.0786195 L1.61405662,19.0786195 L1.61405662,17.0747858 L5.44177188,17.0747858 L5.4863009,20.8231727 L7.37833094,20.8231727 L7.37833094,22.606526 L10.9933448,22.606526 L10.9933448,24.5839648 L16.7127115,24.5574792 L16.7127115,26.4204175 L18.5507323,26.4204175 L18.5507323,24.5574792 L22.4666518,24.5574792 L22.4407269,20.8674578 L24.292277,20.8674578 L24.2751089,17.1396923 L28.2212103,17.1396923 L28.2212116,19.0825575 L29.7669258,19.0825575 L29.7669258,30.0286904 L0.0413015834,30.0286904 L0.0351017968,19.0786195 Z" id="Path-24" stroke="none" fill="#4DB1E4" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
