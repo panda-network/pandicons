@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>theNextWeb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.0260922934" y="2.59033301e-13" width="59.7676176" height="59.7626582" rx="2"></rect>
+        <linearGradient x1="5.36131223%" y1="3.61100096%" x2="100%" y2="40.8861882%" id="linearGradient-3">
+            <stop stop-color="#FF4D27" offset="0%"></stop>
+            <stop stop-color="#FF3C1F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.0876404%" y1="-2.52119531%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E82D1D" offset="0%"></stop>
+            <stop stop-color="#F63926" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="11.6491703%" x2="98.0377953%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#A61C1F" offset="0%"></stop>
+            <stop stop-color="#CF2229" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="3.98702535%" x2="100%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#DF252D" offset="0%"></stop>
+            <stop stop-color="#B31F20" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#F43926" offset="0%"></stop>
+            <stop stop-color="#E62B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.80079024%" y1="26.502982%" x2="31.4429412%" y2="37.0896575%" id="linearGradient-8">
+            <stop stop-color="#BABABA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-4.89820839%" y1="41.3855318%" x2="64.0902312%" y2="55.5974651%" id="linearGradient-9">
+            <stop stop-color="#BABABA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.1530224%" y1="54.0802143%" x2="106.954687%" y2="38.0497143%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="70%"></stop>
+            <stop stop-color="#AEAEAE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(0.000000, -1090.000000)">
+            <g id="theNextWeb" transform="translate(0.246269, 1090.345276)">
+                <g id="New-Mask-Group">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" opacity="0.349696828" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <g id="back" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                        <g transform="translate(-1.898734, -1.518861)">
+                            <path d="M0.39610758,0.253496681 L62.5810826,34.7943663 L62.7588097,0.455139686 L0.39610758,0.253496681 Z" id="Path-126" fill="url(#linearGradient-3)"></path>
+                            <path d="M46.3744053,63.1786655 L62.5810826,34.7943205 L62.5810826,63.1786655 L46.3744053,63.1786655 Z" id="Path-127" fill="url(#linearGradient-4)"></path>
+                            <path d="M0.407898393,63.1786655 L0.407898393,47.653345 L47.0335983,63.1786655 L0.407898393,63.1786655 Z" id="Path-128" fill="url(#linearGradient-5)"></path>
+                            <path d="M0.407898393,47.8197166 L0.407898393,0.233799614 L47.4065339,63.3069254 L0.407898393,47.8197166 Z" id="Path-129" fill="url(#linearGradient-6)"></path>
+                            <path d="M46.9516544,62.8202704 L0.333784712,0.199902334 L62.636941,34.8144756 L46.9516544,62.8202704 Z" id="Path-4" fill="url(#linearGradient-7)"></path>
+                        </g>
+                    </g>
+                    <g id="tnw-brandmark" mask="url(#mask-2)">
+                        <g transform="translate(6.391874, 22.278387)" id="Group">
+                            <g>
+                                <path d="M42.6335502,0.107619105 L40.2975204,7.05970619 L38.858005,1.39262334 C38.5316526,0.107083686 38.1118293,0.107083686 37.8729003,0.107083686 C37.8729003,0.107083686 37.3489964,0.10719077 36.8254109,0.258392935 L35.6966517,5.30685333 L37.8757649,15.0993352 L42.2257157,15.0993352 L47.7261756,0.107619105 L42.6335502,0.107619105 L42.6335502,0.107619105 Z" id="Shape" fill="url(#linearGradient-8)" sketch:type="MSShapeGroup"></path>
+                                <path d="M31.6513035,7.07705374 L29.8644285,1.40450963 C29.4824816,0.192215217 28.9343878,0.10719077 28.6024123,0.10719077 C28.6024123,0.10719077 27.9790962,0.10719077 27.3181158,0.258392935 L27.3181158,9.06827489 L29.6522358,15.0992281 L30.3346476,15.0993352 L32.6181596,14.948133 L31.6513035,7.07705374 L31.6513035,7.07705374 Z" id="Shape" fill="url(#linearGradient-9)" sketch:type="MSShapeGroup"></path>
+                                <path d="M37.8729003,0.107940356 L33.9234632,0.108904109 C33.628197,0.108904109 32.84754,0.107940356 32.6322704,1.39262334 L30.3346476,15.0993352 L33.9356643,15.0993352 L36.8978747,1.39262334 C37.175635,0.107619105 37.7846281,0.107940356 37.8729003,0.107940356 L37.8729003,0.107940356 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                                <path d="M13.9499741,0.258392935 C13.9499741,0.258392935 13.313396,0.107619105 12.6769239,0.107619105 L0,0.107619105 L1.57149932,4.39096656 L5.46226513,4.39096656 L5.46226513,15.0993352 L9.70611964,15.0993352 L9.70611964,4.39096656 L13.9499741,4.39096656 L13.9499741,0.258392935 L13.9499741,0.258392935 Z" id="Shape" fill="url(#linearGradient-10)" sketch:type="MSShapeGroup"></path>
+                                <path d="M24.5596104,0.10719077 C23.8565098,0.10719077 23.2864541,0.682979751 23.2864541,1.39262334 L23.2864541,6.79767241 L18.7093509,0.95657857 C18.2927105,0.401242573 17.6229241,0.109974946 17.0192358,0.109974946 L12.6768178,0.107726188 C12.6768178,0.107726188 13.7376753,0.107726188 13.7376753,1.39283751 L13.7376753,15.0994423 L17.9815298,15.0994423 L17.9815298,6.9316341 L23.7569914,14.3026326 C24.1791488,14.8308764 24.799176,15.1032973 25.4231287,15.0992281 L27.5303086,15.0992281 L27.5303086,1.39251626 C27.5303086,0.633078753 28.0098641,0.107083686 28.6024123,0.107083686 L24.5596104,0.107083686 L24.5596104,0.10719077 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

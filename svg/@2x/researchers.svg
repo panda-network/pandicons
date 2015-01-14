@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>researchers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="SVG_icons" sketch:type="MSLayerGroup" transform="translate(-1.000000, -913.000000)">
+            <g id="researchers" transform="translate(1.246269, 913.020833)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-10" fill="#00ADE2" x="0" y="0.344768615" width="59.995872" height="59.6449704" rx="2"></rect>
+                <g id="logo" transform="translate(10.714286, 11.071429)" fill="#FFFFFF">
+                    <path d="M19.7262137,37.1075392 C29.4450378,36.5113007 37.1428571,28.4403257 37.1428571,18.5714286 C37.1428571,8.31471179 28.8281454,0 18.5714286,0 C8.31471179,0 0,8.31471179 0,18.5714286 C0,28.5272757 7.83406039,36.6533801 17.6739937,37.1215541 L17.6740999,37.1428571 L19.7262137,37.1428571 L19.7262137,37.1075392 L19.7262137,37.1075392 Z M17.6074219,8.05175781 L19.7262137,8.05175781 L19.7262137,13.288803 L17.6740999,13.288803 L17.6074219,8.05175781 Z M19.7262137,37.1075392 C19.3442915,37.1309697 18.9592483,37.1428571 18.5714286,37.1428571 C18.270559,37.1428571 17.9713604,37.1357025 17.6739937,37.1215541 L17.6074219,23.7660435 L19.7262137,23.7660435 L19.7262137,37.1075392 L19.7262137,37.1075392 Z M5.8600317,14.3797084 L29.2421071,14.3797084 L32.3883929,18.2322475 L29.0631975,22.7204241 L5.8600317,22.7204241 L9.30576872,18.5500663 L5.8600317,14.3797084 Z" id="Oval-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
