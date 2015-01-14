@@ -1,1 +1,33 @@
 # pandicons
+The SVG icons of the new Panda version. 
+--- 
+
+
+![dribbble](http://panda-network.github.io/pandicons/svg/dribbble.svg)
+![behance](http://panda-network.github.io/pandicons/svg/behance.svg)
+![awwwards](http://panda-network.github.io/pandicons/svg/awwwards.svg)
+![designerNews](http://panda-network.github.io/pandicons/svg/designerNews.svg)
+![hackerNews](http://panda-network.github.io/pandicons/svg/hackerNews.svg)
+![productHunt](http://panda-network.github.io/pandicons/svg/productHunt.svg)
+![sidebar](http://panda-network.github.io/pandicons/svg/sidebar.svg)
+![lobsters](http://panda-network.github.io/pandicons/svg/lobsters.svg)
+![growthHackers](http://panda-network.github.io/pandicons/svg/growthHackers.svg)
+![ui8](http://panda-network.github.io/pandicons/svg/ui8.svg)
+![researchers](http://panda-network.github.io/pandicons/svg/researchers.svg)
+![backerNews](http://panda-network.github.io/pandicons/svg/backerNews.svg)
+![mashable](http://panda-network.github.io/pandicons/svg/mashable.svg)
+![smashingMagazine](http://panda-network.github.io/pandicons/svg/smashingMagazine.svg)
+![abduzeedo](http://panda-network.github.io/pandicons/svg/abduzeedo.svg)
+![ffffound](http://panda-network.github.io/pandicons/svg/ffffound.svg)
+![github](http://panda-network.github.io/pandicons/svg/github.svg)
+![pttrns](http://panda-network.github.io/pandicons/svg/pttrns.svg)
+![fastCompany](http://panda-network.github.io/pandicons/svg/fastCompany.svg)
+![angel](http://panda-network.github.io/pandicons/svg/angel.svg)
+![inbound](http://panda-network.github.io/pandicons/svg/inbound.svg)
+![recode](http://panda-network.github.io/pandicons/svg/recode.svg)
+![theVerge](http://panda-network.github.io/pandicons/svg/theVerge.svg)
+![wired](http://panda-network.github.io/pandicons/svg/wired.svg)
+![theNextWeb](http://panda-network.github.io/pandicons/svg/theNextWeb.svg)
+![fastCoDesign](http://panda-network.github.io/pandicons/svg/fastCoDesign.svg)
+![butDoesItFloat](http://panda-network.github.io/pandicons/svg/butDoesItFloat.svg)
+![swissMiss](http://panda-network.github.io/pandicons/svg/swissMiss.svg)
