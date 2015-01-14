@@ -1,6 +1,7 @@
 # pandicons
 The SVG icons of the new Panda version. 
 --- 
+You can view them online : [On Codepen.io](http://codepen.io/LukyVj/pen/LEWWwq)
 
 #### 30x30
 
