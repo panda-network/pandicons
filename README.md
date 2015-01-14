@@ -20,7 +20,7 @@ The SVG icons of the new Panda version.
 ![abduzeedo](http://panda-network.github.io/pandicons/svg/abduzeedo.svg)
 ![fffound](http://panda-network.github.io/pandicons/svg/fffound.svg)
 ![github](http://panda-network.github.io/pandicons/svg/github.svg)
-![ptttrns](http://panda-network.github.io/pandicons/svg/pttrns.svg)
+![ptttrns](http://panda-network.github.io/pandicons/svg/ptttrns.svg)
 ![fastCompany](http://panda-network.github.io/pandicons/svg/fastCompany.svg)
 ![angel](http://panda-network.github.io/pandicons/svg/angel.svg)
 ![inbound](http://panda-network.github.io/pandicons/svg/inbound.svg)
